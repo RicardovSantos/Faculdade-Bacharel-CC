@@ -34,7 +34,7 @@ void bubbles(float precos[], char produtos[][20],int tamanho, int ordem){
     }
             if (trocou == 0)
             {
-                break;
+                break; 
             }
     }
 
