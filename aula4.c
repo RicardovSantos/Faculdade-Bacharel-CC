@@ -5,6 +5,10 @@
 
 int main(){
 
+//configuração para caracteres especiais.
+SetConsoleOutputCP(CP_UTF8);
+SetConsoleCP(CP_UTF8);
+setlocale(LC_ALL,"UTF-8");
 
 printf(" ola mundo");
 
