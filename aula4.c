@@ -17,7 +17,7 @@ int soma;
 for (int i=0;i<5;i++)
 {
      soma += numeros[i];
-
+//de novo
 
 
 }
