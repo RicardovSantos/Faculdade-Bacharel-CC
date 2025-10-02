@@ -1,0 +1,9 @@
+/* aula 4 external css */
+h3 {
+    color: rgb(255, 0, 234);
+    text-align: center;
+    size: 20px;
+}
+body {
+    padding-bottom: 500px;
+}
