@@ -1,0 +1,6 @@
+/* desafio 2 - estilizando títulos */
+h4 {    
+    color: rgba(165, 14, 97, 0.918);
+    padding: 5px;
+    border: 1px solid rgba(138, 77, 110, 0.562);
+}
