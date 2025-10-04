@@ -38,3 +38,39 @@
    border: 2px solid blue;
    border-radius: 4px;
 }
+/* alinhamento de texto */
+.texto-alinhado {
+    text-align: center;
+    font-size: 20px;
+    color :rgb(0, 255, 13);
+    background-color: rgb(109, 103, 103);
+}
+/* texto decoration */
+.tx-decor  {
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 5px;
+}
+.tx-alta {
+    text-transform: uppercase;
+    font-size: 20px;
+    color :rgb(24, 114, 109);
+    background-color: rgb(214, 208, 208);
+}
+.tx-baixa {
+    text-transform: lowercase;
+    font-size: 20px;
+    color :rgb(24, 114, 109);
+    background-color: rgb(214, 208, 208);
+}
+.box-inline {
+   width: 60px;
+   height: 60px;
+    background-color: rgba(140, 243, 171, 0.925);
+    color: rgb(133, 7, 7);
+    font-size: 20px;
+    padding: 5px;
+}
+.invisivel {
+    display: none;
+}
